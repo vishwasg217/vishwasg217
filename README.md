@@ -17,8 +17,6 @@
 
 - 📄 Know about my [experiences](https://docs.google.com/document/d/1LlhUv9yAZzbTUUjAjmbBqh46Oqny6eFC5d8045pJMC8/edit)
 
-- ⚡ Fun fact:  **I'm very good at football (soccer)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vishwasaitech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishwasaitech" height="30" width="40" /></a>
