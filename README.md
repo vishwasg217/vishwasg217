@@ -78,13 +78,11 @@
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://www.freecodecamp.org/news/content/images/size/w1600/2023/05/Screenshot-2023-05-29-at-5.40.38-PM.png" alt="langchain" width="160" height="40"/>
   </a>
-</p>
 
 <!-- Streamlit -->
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="70" height="40"/>
   </a>
-</p>
 
 <!-- fastAPI -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
