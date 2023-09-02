@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishwas Gowda</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
 
-- 🔭 My latest projects: **[Predictive Maintenance - MLOps](https://github.com/vishwasg217/Predictive-Maintenance), [StudySage - LLMOps](https://github.com/vishwasg217/StudySage)**
+- 🔭 My latest projects: **[Predictive Maintenance - MLOps](https://github.com/vishwasg217/Predictive-Maintenance), [Email Campaign Generator - LLMOps](https://github.com/vishwasg217/recommender)**
 
-- 🌱 I’m currently learning **Deep learning, Langchain**
+- 🌱 I’m currently learning **Deep learning, LLMOps**
 
 - 💪 Currently Working at [**Antern**](https://www.linkedin.com/company/team-antern/)
 
