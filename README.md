@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishwas Gowda</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
 
-- 🔭 My latest projects: **[Predictive Maintenance - MLOps](https://github.com/vishwasg217/Predictive-Maintenance), [Email Campaign Generator - LLMOps](https://github.com/vishwasg217/recommender)**
+- 🔭 My latest projects: **[FinSight - Financial Insights at Your Fingertip](https://finsight-report.streamlit.app/), [Email Campaign Generator - LLMOps](https://github.com/vishwasg217/recommender)**
 
 - 🌱 I’m currently learning **Deep learning, LLMOps**
 
-- 💪 Currently Working at [**Antern**](https://www.linkedin.com/company/team-antern/)
+- 💪 Currently Working at [**ClearFeed**](https://github.com/clearfeed)
 
 - 🤝 You can find me on LinkedIn [here](https://www.linkedin.com/in/vishwasgowda217/)
 
