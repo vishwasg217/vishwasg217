@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep learning, LLMOps**
 
-- 💪 Currently Working at [**ClearFeed**](https://github.com/clearfeed)
+- 💪 Currently Working at [**Pipe Technologies**](Pipe)
 
 - 🤝 You can find me on LinkedIn [here](https://www.linkedin.com/in/vishwasgowda217/)
 
