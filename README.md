@@ -11,7 +11,7 @@
 
 - 🐥 I'm also on [Twitter](https://twitter.com/VishwasAiTech)
 
-- 💬 Ask me about **Machine Learning, MLOps, NLP, LLMs, Deep Learning, Data Science**
+- 💬 Ask me about **Machine Learning, NLP, LLMs, MLOps, Deep Learning, Data Science**
 
 - 📫 You can reach out to me at **vishwas.g217@gmail.com**
 
