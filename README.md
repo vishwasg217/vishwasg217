@@ -17,6 +17,4 @@
 
 - 📄 Know about my [experiences](https://docs.google.com/document/d/1LlhUv9yAZzbTUUjAjmbBqh46Oqny6eFC5d8045pJMC8/edit)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwasg217&show_icons=true&locale=en&layout=compact" alt="vishwasg217" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasg217&" alt="vishwasg217" /></p>
