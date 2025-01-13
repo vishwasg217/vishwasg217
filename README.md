@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwas Gowda</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h3 align="center">Applied AI | LLMs | NLP | ML</h3>
 
 - 🔭 My latest projects: **[FinSight - Financial Insights at Your Fingertip](https://finsight-report.streamlit.app/), [Email Campaign Generator - LLMOps](https://github.com/vishwasg217/recommender)**
 
