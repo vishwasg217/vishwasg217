@@ -11,7 +11,7 @@
 
 - 🐥 I'm also on [**Twitter**](https://x.com/imvishwas_g)
 
-- 💬 Ask me about **AI, RAG< LLMs, NLP, MLe**
+- 💬 Ask me about **AI, RAG, LLMs, NLP, ML**
 
 - 📫 You can reach out to me at **vishwas.g217@gmail.com**
 
